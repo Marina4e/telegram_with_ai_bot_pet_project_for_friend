@@ -1,3 +1,6 @@
+
+<img width="963" height="755" alt="Знімок екрана 2026-02-05 220420" src="https://github.com/user-attachments/assets/7dc9cbc7-569b-4ee2-b810-4b0ade233e3b" />
+
 # Telegram GPT Bot (SQLite memory)
 
 Це простий Telegram-бот, який працює як чат з моделлю OpenAI через API.

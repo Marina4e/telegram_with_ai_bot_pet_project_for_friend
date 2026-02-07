@@ -1,5 +1,9 @@
 # secrets
 .env
+.env.local
+.env.dev
+.env.prod
+!.env.example
 
 # python
 __pycache__/
@@ -8,8 +12,6 @@ __pycache__/
 
 # venv
 venv/
-.env/
-.env.*
 
 # database
 *.db

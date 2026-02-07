@@ -45,4 +45,3 @@ print("FAKE_MODE raw:", os.getenv("FAKE_MODE"))
 print("FAKE_MODE parsed:", FAKE_MODE)
 print("OPENAI_API_KEY exists:", bool(OPENAI_API_KEY))
 print("====================")
-

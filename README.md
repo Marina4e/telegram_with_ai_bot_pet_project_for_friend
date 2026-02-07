@@ -181,8 +181,6 @@ pip install -r requirements.txt
 OPENAI_MODEL=gpt-5-nano
 OPENAI_FALLBACK_MODEL=gpt-4o-mini
 
-Автор
+Автор: https://github.com/Marina4e/telegram_gpt_bot_26
 
 Проект зібраний як простий навчальний Telegram GPT bot з памʼяттю.
-
-

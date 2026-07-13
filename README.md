@@ -1,6 +1,4 @@
 
-<img width="963" height="755" alt="Знімок екрана 2026-02-05 220420" src="https://github.com/user-attachments/assets/7dc9cbc7-569b-4ee2-b810-4b0ade233e3b" />
-
 # Telegram GPT Bot (SQLite memory)
 
 Це простий Telegram-бот, який працює як чат з моделлю OpenAI через API.
@@ -77,8 +75,8 @@ FAKE_MODE=0
 
 # Якщо хочеш, щоб бот працював тільки для 1 людини:
 # (впиши свій Telegram ID)
-ALLOWED_USER_ID=
-
+ALLOWED_USER_ID= 
+```
 6) Як дізнатись свій Telegram ID (для приватного режиму)
 
 Запусти бота
@@ -145,6 +143,9 @@ python bot.py
 Примітка про роботу бота
 
 Цей бот працює у режимі polling.
+
+<img width="300" height="255" alt="Знімок екрана 2026-02-05 220420" src="https://github.com/user-attachments/assets/7dc9cbc7-569b-4ee2-b810-4b0ade233e3b" />
+
 Це означає:
 
 бот працює тільки тоді, коли запущений python bot.py

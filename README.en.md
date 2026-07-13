@@ -76,6 +76,9 @@ FAKE_MODE=0
 ALLOWED_USER_ID=
 ```
 
+<img width="300" height="255" alt="Знімок екрана 2026-02-05 220420" src="https://github.com/user-attachments/assets/7dc9cbc7-569b-4ee2-b810-4b0ade233e3b" />
+
+ 
 ## 6) How to Find Out Your Telegram ID for Private Mode
 
 Start the bot.
